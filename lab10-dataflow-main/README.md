@@ -48,7 +48,8 @@ OS name: "windows 11", version: "10.0", arch: "amd64", family: "windows"
 
 ## B — bonus
 
-![bonus функцийн CFG](cfg-bonus.png)
+<img width="2040" height="1950" alt="cfg" src="https://github.com/user-attachments/assets/f384e99e-6363-4dc9-8a4b-cd4072f2ac9d" />
+
 
 ### Def ба use
 
